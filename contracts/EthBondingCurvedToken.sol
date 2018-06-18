@@ -1,3 +1,4 @@
+pragma solidity ^0.4.21;
 
 import "tokens/eip20/EIP20.sol";
 import "zeppelin/contracts/math/SafeMath.sol";
